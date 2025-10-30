@@ -1,0 +1,9 @@
+2.**Sistema de Tarefas (To-do)**
+
+Tipos: Usuario, Tarefa
+
+Relacionamento: um usuário pode ter várias tarefas
+
+Mutation: criar tarefa, marcar como concluída
+
+Query: listar tarefas pendentes de um usuário
